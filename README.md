@@ -1,2 +1,6 @@
-# sat-example-2
-new repo
+# fintech-sat-demo-2
+recap of saturdays discussion
+
+
+## Hello World 
+
